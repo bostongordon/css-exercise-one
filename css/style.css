@@ -1,7 +1,6 @@
 body
-  font-size: 14px;
-}
-
+  font-size: 14px;}
+/* navigation */
 nav {
   background color: yellow;
   height: 100px;
@@ -9,7 +8,7 @@ nav {
   position: fixed;
   width: 100%;
 }
-
+/* content begins here */
 section {
   margin: 0 auto;
   width: 60%;
@@ -28,13 +27,15 @@ h1 {
 h3 {
   font-size: 1.3em;
 }
-
+/* elements with green background */
 .element {
   background-color: green;
   height: 100px;
   margin 10px 0;
   width: 100%;
 }
+
+/* elements with blue background */
 div.feature {
     background-color: blue;
   }
